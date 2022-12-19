@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Explore-Odisha/static/css/main.6a176b99.css",
+    "main.js": "/Explore-Odisha/static/js/main.947ba98c.js",
+    "index.html": "/Explore-Odisha/index.html",
+    "main.6a176b99.css.map": "/Explore-Odisha/static/css/main.6a176b99.css.map",
+    "main.947ba98c.js.map": "/Explore-Odisha/static/js/main.947ba98c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a176b99.css",
+    "static/js/main.947ba98c.js"
+  ]
+}
